@@ -7,7 +7,7 @@ Two Excel projects analyzing real-world data science job postings from 2023 — 
 ### 1️⃣ [Salary Dashboard](Project_1-Dashboard/README.md)
 An interactive dashboard for job seekers to check median salary by **job title**, **country**, and **schedule type**.
 
-<img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/b369e41f-b267-4cc7-aa3c-6b10659c4808" />
+<img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/0191db89-1075-497e-abca-5e3acd86e443" />
 
 - Bar chart of median salary by job title
 - Map chart of median salary by country
